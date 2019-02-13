@@ -4,7 +4,7 @@ This repo contains NodeSchool's Lodash workshop, includes basic and intermediate
 
 ## Lodash
 
-Lodash is a JS library for working with arrays, JSON data and JS Objects. Works well in the Backend and also in the FrontEnd of any JS project
+Lodash is a JS library for working with arrays, JSON data and JS Objects. Works well in the BackEnd and also in the FrontEnd of any JS project
 
 ## Usage
 
